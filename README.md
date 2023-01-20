@@ -4,7 +4,7 @@
 
 Discover an immersive 3D product configurator powered by React and the dynamic Three.js library, featuring the efficiency of Draco loader technology. Our innovative solution empowers users to customize products in stunning 3D, providing a rich and interactive experience. Unleash your creativity as you tweak and visualize products with ease. Whether you're designing furniture, apparel, or any other item, our configurator offers unparalleled flexibility and realism. Explore endless possibilities and bring your vision to life in an engaging, user-friendly environment. Experience the future of product customization with our React-based 3D Product Configurator, setting new standards in interactive design and personalization.
 
-![Screenshot](https://github.com/alenjohn05/3D-Product-Configurator/screenshots/image1.jpg)
+![Screenshot](https://github.com/alenjohn05/3D-Product-Configurator/blob/master/screenshots/image1.jpg)
 
 ## Live Site
 Explore the 3D Product Configurator in action [here](https://3d-product-configurator.vercel.app/).
